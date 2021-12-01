@@ -13,7 +13,7 @@ This topic shows how to create an [Azure Batch account](accounts.md) in the [Azu
 
 For background about Batch accounts and scenarios, see [Batch service workflow and resources](batch-service-workflow-features.md).
 
-## Create a Batch account
+
 
 [!INCLUDE [batch-account-mode-include](../../includes/batch-account-mode-include.md)]
 
